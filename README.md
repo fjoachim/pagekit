@@ -3,7 +3,7 @@ PageKit
 
 Version 1.2 - Source available on [GitHub](http://github.com/fjoachim/pagekit).
 
-Copyright 2010 Joachim Fornallaz. All rights reserved.
+Copyright 2006-2010 Joachim Fornallaz. All rights reserved.
 
 
 Introduction
