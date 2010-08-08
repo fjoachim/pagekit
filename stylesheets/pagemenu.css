@@ -1,0 +1,35 @@
+.menutitle {
+	border: none;
+	color:	#003366;
+	padding: 3px 12px 3px 3px;
+	background: white url(menu_discloser.png) no-repeat right center;
+}
+
+.menutitle:hover, .menutitle.selected {
+	cursor: pointer;
+	background-color: #ccc;
+}
+
+ul.menu {
+	position: absolute;
+	visibility: hidden;
+	margin: 0px;
+	border: 1px solid silver;
+	padding: 0px;
+	background-color: white;
+	list-style-type: none;	
+	text-align: left;
+	width: 140px;
+}
+
+ul.menu a {
+	color: #004a84;
+	padding: 2px 3px;
+	display: block;
+	text-decoration: none;
+}
+
+ul.menu a:hover {
+	color: white;
+	background-color: #235088;
+}

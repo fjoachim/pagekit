@@ -1,0 +1,23 @@
+ul {
+	list-style: none;
+	padding: 0px;
+	margin: 0px;
+}
+
+li {
+	padding: 2px;
+}
+
+li.selected {
+	background: #2E75D9;
+	color: white;
+}
+
+li + li {
+	margin-top: 1px;
+}
+
+#leftcolumn {
+	border: 1px solid silver;
+	width: 320px;
+}
