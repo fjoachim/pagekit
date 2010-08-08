@@ -1,3 +1,13 @@
+/*
+	PageList
+
+	Author:
+		Joachim Fornallaz, http://github.com/fjoachim
+
+	History:
+		Sometime in 2006  - v1.0
+*/
+
 var PageList = Class.create();
 
 PageList.lists = [];
