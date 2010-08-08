@@ -9,7 +9,7 @@ Copyright 2010 Joachim Fornallaz. All rights reserved.
 Introduction
 ------------
 
-PageKit is a set of JavaScript classes based on [Prototype](http://www.prototypejs.org/) which provide features like menus.
+PageKit is a set of JavaScript classes based on [Prototype](http://www.prototypejs.org/) which provide features like menus and lists.
 
 PageMenu
 --------
