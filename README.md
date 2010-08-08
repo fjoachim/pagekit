@@ -58,8 +58,8 @@ For adding a custom style, add a CSS class to first-level LI elements like this:
 
     <ul class="menubar">
        <li class="special">
-          <label class="menutitle">File</label>
-          <ul class="menu">
+          <label for="filemenu" class="menutitle">File</label>
+          <ul id="filemenu" class="menu">
              <li><a href="#">New</a></li> 
              <li><a href="#">Open</a></li>
              <li><a href="#">Save</a></li>
